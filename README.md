@@ -1,6 +1,6 @@
 # Disease Prediction Using Attention Mechanism And Severity Mapping 
 
-—The combination of AI with healthcare makes the
+The combination of AI with healthcare makes the
  prediction of illnesses from given symptoms much more sig
 nificant. This study proposes a DNN model that incorporates
  attention mechanisms along with embedding symptoms, graph
